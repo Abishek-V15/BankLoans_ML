@@ -5,3 +5,5 @@ This project aims to develop a machine learning model to predict customer defaul
 For your convenience, the dataset has been attached for easy access and exploration.
 
 Thank you for your visit, inputs are accepted.🤝
+
+ it is recommended to use Google Colab instead of Jupyter Notebook.
